@@ -2,8 +2,6 @@
 
 A structural design tool for ViKO Consulting Engineers that calculates the design compressive resistance of **Parallel Flange Channels (PFC)** and **Taper Flange Channels (TFC)** under axial load, in accordance with **SANS 10162-1**.
 
-🔗 **Live App:** [Launch App](https://your-streamlit-app-url-here.streamlit.app/)
-
 ---
 
 ## Overview
